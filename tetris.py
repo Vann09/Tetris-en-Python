@@ -1,7 +1,5 @@
-"""
-    Tetris desarrollado con PyGame
-    Copyright (C) 2018 Recursos Python - recursospython.com.
-"""
+# Tetris desarrollado con PyGame
+# Copyright (C) 2018 Recursos Python - recursospython.com.
 
 from collections import OrderedDict
 import random
